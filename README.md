@@ -20,26 +20,26 @@ Pelo simples fato de que são dados que dependem do seu número total, é import
 
 # Chegou o momento de analisar os números
 Pedi a frequência de acidentes divididos por dias da semana.
+![Image](https://github.com/user-attachments/assets/ba77bbdd-6e16-4b55-85ca-3f0d83e6d0dd)
 
-
-# Percebemos que os 3 primeiros são praticamente iguais.
+Percebemos que os 3 primeiros são praticamente iguais.
 
 (na verdade tirando domingo, podemos dizer que não existe dia específico que acontece mais acidentes, porém irei utilizar os 3 primeiros).
-
 # Diferente do Clima
 No clima já conseguimos perceber um grande padrão.
-
+![Image](https://github.com/user-attachments/assets/f69d2a9b-63da-4d44-a2ea-facaf116a258)
 
 # Podemos dizer o mesmo da condição da Pista
 A condição que mais acontece acidentes é a Seca.
-
+![Image](https://github.com/user-attachments/assets/7f268d93-d82b-43e5-885a-bcb20cc2fa5e)
 
 # Fase do Dia
 O período da tarde é onde ocorre mais sinistros.
-
+**![Image](https://github.com/user-attachments/assets/a7a02bee-aa32-4e24-8325-a7487849a16d)**
 
 Agora que coletamos todos os dados necessários
 # Qual a maior probabilidade de acontecer um acidente?
+![Image](https://github.com/user-attachments/assets/aca111ca-b33d-4ae3-bd8f-800e3aaa5e46)
 
 Como os dias quarta, segunda e sexta ficaram praticamente empatado decidi usar os 3 dias
 
@@ -48,5 +48,4 @@ Podemos verificar que no ano de 2018 os acidentes ocorreram mais durante o perí
 
 Por incrível que pareça os dados foram contra a previsão, muitos pensam que seria em uma madrugada pela falta de luz, ou em uma sexta pelo aumento de condutores dirigindo com efeito do álcool, porém o que os dados nos mostram são que os condutores acabam se envolvendo em sinistros pelo simples fato de estarem relaxados, quando um condutor se encontra em um clima chuvoso em uma madrugada, ele costuma redobrar sua atenção, evitando um possível acidente.
 
-Percebeu o quanto é importante usar os dados para tomar decisões?
-# Acidentes_Transito
+# Percebeu o quanto é importante usar os dados para tomar decisões?
