@@ -49,3 +49,8 @@ Podemos verificar que no ano de 2018 os acidentes ocorreram mais durante o perí
 Por incrível que pareça os dados foram contra a previsão, muitos pensam que seria em uma madrugada pela falta de luz, ou em uma sexta pelo aumento de condutores dirigindo com efeito do álcool, porém o que os dados nos mostram são que os condutores acabam se envolvendo em sinistros pelo simples fato de estarem relaxados, quando um condutor se encontra em um clima chuvoso em uma madrugada, ele costuma redobrar sua atenção, evitando um possível acidente.
 
 # Percebeu o quanto é importante usar os dados para tomar decisões?
+Gostou do Projeto e gostaria de mais detalhes?
+
+Link com o código completo: https://github.com/EduardaSantosDiniz/Acidentes_Transito/blob/main/Acidentes_Transito.ipynb
+
+Medium: https://medium.com/@eduardafaculdade0306/qual-a-maior-probabilidade-de-acontecer-um-acidente-d2fec902f7e0
