@@ -1,4 +1,4 @@
-# Como saber se você está em uma situação que causa mais acidentes no ano ?    
+# Como saber se você está em uma situação que causa mais acidentes no ano?    
 Criei um projeto que revela qual a situação que mais causa acidentes no Brasil.
 Utilizei todo os dados registrados de acidentes em 2018 para usar como embasamento para esse projeto, você encontra facilmente todos os dados que usei aqui:
 
