@@ -5,7 +5,7 @@ Utilizei todo os dados registrados de acidentes em 2018 para usar como embasamen
 RENAEST: https://dados.transportes.gov.br/dataset/renaest/resource/0459b4ba-f7f5-469f-8ff3-c999b11f7cf2  
    
     
-     
+      
             
   
 Se caso o site ficou inativo ou por algum outro motivo você não conseguiu baixar os dados, me mande uma mensagem no meu e-mail que tentarei te ajudar eduardafaculdade0306@gmail.com
