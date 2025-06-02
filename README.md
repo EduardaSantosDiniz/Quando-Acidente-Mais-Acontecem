@@ -13,7 +13,7 @@ Se caso o site ficou inativo ou por algum outro motivo você não conseguiu baix
 Essa base de dados nos bastante detalhes sobre cada acidente que aconteceu no ano de 2018 porém existem alguns dados que dependem de outras informações que não temos, por isso mostrarei os dados que irei utilizar:
 
 Clima
-Dia da Semana
+Dia da Semana 
 Fase do Dia
 Estado da Pista
 Não vou usar dados como gênero, estado e tipo de veículo.
