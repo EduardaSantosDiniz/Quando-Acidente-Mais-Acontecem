@@ -14,7 +14,7 @@ Essa base de dados nos bastante detalhes sobre cada acidente que aconteceu no an
 
 Clima
 Dia da Semana 
-Fase do Dia
+Fase do Dia 
 Estado da Pista
 Não vou usar dados como gênero, estado e tipo de veículo.
 
