@@ -8,7 +8,7 @@ RENAEST: https://dados.transportes.gov.br/dataset/renaest/resource/0459b4ba-f7f5
                                      
                              
                                  
-             
+              
 Caso o site ficou inativo ou por algum outro motivo você não conseguiu baixar os dados, me mande uma mensagem no meu e-mail que tentarei te ajudar eduardafaculdade0306@gmail.com 
     
 Essa base de dados nos dá bastante detalhes sobre cada acidente que aconteceu no ano de 2018 porém existem alguns dados que dependem de outras informações que não temos, por isso mostrarei os dados que irei utilizar:
