@@ -2,7 +2,7 @@
 Criei um projeto que revela qual a situação que mais causa acidentes no Brasil.       
 Utilizei todos os dados registrados de acidentes em 2018 para usar como embasamento para esse projeto, você encontra facilmente todos os dados que usei aqui:    
               
-RENAEST: https://dados.transportes.gov.br/dataset/renaest/resource/0459b4ba-f7f5-469f-8ff3-c999b11f7cf2         
+RENAEST: https://dados.transportes.gov.br/dataset/renaest/resource/0459b4ba-f7f5-469f-8ff3-c999b11f7cf2          
  
                               
                                        
